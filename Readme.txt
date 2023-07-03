@@ -1,4 +1,5 @@
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+TEAM MEMBERS:-
+Rajat Joshi                   20BCE10482
+Yukta Garg                    20BCE10378
+Anay Kamal Singh              20BCE10470
+Aakanksha Priya               20BCY10030
